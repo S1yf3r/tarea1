@@ -1,0 +1,118 @@
+#principal
+{
+    width: 800px;
+    height: 2000px;
+    background-color: skyblue;
+    margin: 20px;
+}
+#sombrero
+{
+    width: 350px;
+    height: 80px;
+    background-color: orange;
+    border-radius: 20px;
+    position: relative;
+    display: inline-block;
+    left: 225px;
+    top: 430px;
+}
+#cabeza
+{
+    width: 145px;
+    height: 180px;
+    background-color: black;
+    border-radius: 15px;
+    margin: auto;
+    position: relative;
+    top: -150px;
+    transform: rotate(90deg);
+}
+#padrecaja
+{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border-radius: 80px;
+    position: relative;
+    display: inline-block;
+    left: -150px;
+    top: 650px;
+}
+#boca
+{
+    width: 60px;
+    height: 220px;
+    background-color: red;
+    border-radius: 50px;
+    position: relative;
+    display: inline-block;
+    left: 175px;
+    top: 210px;
+    transform: rotate(90deg);
+}
+#uno
+{
+    width: 140px;
+    height: 140px;
+    background-color: red;
+    border-radius: 100px;
+    display: inline-block;
+    position: relative;
+    left: 220px;
+    top: 250px;
+}
+#uno-1
+{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 10px;
+    margin: auto;
+    position: relative;
+    top: 40px;
+    transform: rotate(45deg);
+}
+#dos
+{
+    width: 140px;
+    height: 140px;
+    background-color: red;
+    border-radius: 100px;
+    display: inline-block;
+    position: relative;
+    left: 260px;
+    top: 250px;
+}
+#dos-1
+{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 10px;
+    margin: auto;
+    position: relative;
+    top: 40px;
+    transform: rotate(45deg);
+}
+#tres
+{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 100px;
+    display: inline-block;
+    position: relative;
+    left: 50px;
+    top: 330px;
+}
+#tres-1
+{
+    width: 20px;
+    height: 190px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+    margin: auto;
+    position: relative;
+    top: 85px;
+    transform: rotate(90deg);
+}
